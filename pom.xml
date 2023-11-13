@@ -99,7 +99,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://44.204.185.195:8081/repository/citibank-release/</url>
+	      <url>http://172.31.94.121:8081/repository/citibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
